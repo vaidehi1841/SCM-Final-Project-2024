@@ -144,6 +144,8 @@
         </div>
         <!-- Add this div where you want to display the search history -->
 <div id="search-history"></div>
+#this is the project code 
+#this is the final project of SCM 
 
        
 <script src="s.js"></script>
